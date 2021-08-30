@@ -7,11 +7,16 @@ This is the project for the Day 25 of the 30-days vanilla JavaScript coding chal
 
 This project doesn't have any front-end stuffs. Checkout the browser's JavaScript console to see the results.
 
+<br>
+
 ### Event propagation
 The standard DOM Events describes 3 phases of event propagation:
-- 1. Capturing phase – the event goes down to the element.
-- 2. Target phase – the event reached the target element.
-- 3. Bubbling phase – the event bubbles up from the element.
+<ol>
+  <li>Capturing phase – the event goes down to the element.</li>
+  <li>Target phase – the event reached the target element.</li>
+  <li>Bubbling phase – the event bubbles up from the element.</li>
+</ol>   
+
 
 ![DOM Event Propagation](./event-propagation.png)
 
